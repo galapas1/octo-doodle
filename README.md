@@ -1,3 +1,5 @@
+![Alt text](./imgs/octo-doodle.jpg?raw=true "Octo Doodle Project")
+
 # Overview
 Octo Doodle is a simple webservice exposing a single endpoint that accepts a pdf file
 ```
